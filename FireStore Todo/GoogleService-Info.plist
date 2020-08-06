@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>565818118589-3s8l62ger4nd0gidg39qm04vkq474rc4.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.565818118589-3s8l62ger4nd0gidg39qm04vkq474rc4</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAnCWtDaFGbVQLFG209dNSmokEtxvn3gDI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>565818118589</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>foundation.dwarves.FireStore-Todo</string>
+	<key>PROJECT_ID</key>
+	<string>firestore-todo-4c3ff</string>
+	<key>STORAGE_BUCKET</key>
+	<string>firestore-todo-4c3ff.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:565818118589:ios:557a1be7b945c96c5b42d4</string>
+	<key>DATABASE_URL</key>
+	<string>https://firestore-todo-4c3ff.firebaseio.com</string>
+</dict>
+</plist>
